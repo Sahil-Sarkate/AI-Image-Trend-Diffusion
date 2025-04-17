@@ -1,0 +1,13 @@
+instaloader
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pytrends
+praw
+textblob
+vaderSentiment
+geopandas
+folium
+python-dotenv
